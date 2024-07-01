@@ -1,0 +1,136 @@
+[
+    {
+        "question": "What is the capital city of Australia?",
+        "optionA": "Sydney",
+        "optionB": "Melbourne",
+        "optionC": "Brisbane",
+        "optionD": "Canberra",
+        "answer": "Canberra"
+    },
+
+    {
+        "question": "Which city hosted the 2008 Summer Olympics?",
+        "optionA": "London",
+        "optionB": "Beijing",
+        "optionC": "Athens",
+        "optionD": "Sydney",
+        "answer": "Beijing"
+    },
+
+    {
+        "question": "Who is known as the father of modern physics?",
+        "optionA": "Albert Einstein",
+        "optionB": "Galileo Galilei",
+        "optionC": "Isaac Newton",
+        "optionD": "Nikola Tesla",
+        "answer": "Albert Einstein"
+    },
+
+    {
+        "question": "Which is the only mammal that can't jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+
+    {
+        "question": "Which country is known as the Land of Rising Sun?",
+        "optionA": "China",
+        "optionB": "Japan",
+        "optionC": "South Korea",
+        "optionD": "Thailand",
+        "answer": "Japan"
+    },
+
+    {
+        "question": "Which country is the smallest by land area?",
+        "optionA": "Peru",
+        "optionB": "Vatican city",
+        "optionC": "Chile",
+        "optionD": "Thames",
+        "answer": "Vatican city"
+    },
+
+    {
+        "question": "Where is the smallest bone in the human body?",
+        "optionA": "The Chest",
+        "optionB": "The Ear",
+        "optionC": "The Legs",
+        "optionD": "The Hands",
+        "answer": "The Ear"
+    },
+
+    {
+        "question": "What does the roman numeral C represent?",
+        "optionA": "100",
+        "optionB": "10",
+        "optionC": "10,000",
+        "optionD": "1,000,000",
+        "answer": "100"
+    },
+
+    {
+        "question": "What is the highest mountain peak in the world?",
+        "optionA": "Mt. Everest",
+        "optionB": "K2",
+        "optionC": "Mt. Kilimanjaro",
+        "optionD": "Mt. McKinley",
+        "answer": "Mt. Everest"
+    },
+
+    {
+        "question": "What is the unit of measurement for electrical resistance?",
+        "optionA": "Ohm",
+        "optionB": "Watt",
+        "optionC": "Ampere",
+        "optionD": "Volt",
+        "answer": "Ohm"
+    },
+
+    {
+        "question": "What's the most important book in the Muslim religion?",
+        "optionA": "The Quran",
+        "optionB": "The Dictionary",
+        "optionC": "The Bible",
+        "optionD": "The Chemistry text Book",
+        "answer": "The Quran"
+    },
+
+    {
+        "question": "Who is credited with the discovery of penicillin?",
+        "optionA": "Jonas Salk",
+        "optionB": "Louis Pasteur",
+        "optionC": "Marie Curie",
+        "optionD": "Alexander Fleming",
+        "answer": "Alexander Fleming"
+    },
+
+    {
+        "question": "How many squares are there on a chess board?",
+        "optionA": "128",
+        "optionB": "64",
+        "optionC": "32",
+        "optionD": "256",
+        "answer": "64"
+    },
+
+    {
+        "question": "Who invented the electric light bulb?",
+        "optionA": "Tom Cruise",
+        "optionB": "Barack Obama",
+        "optionC": "Wole Soyinka",
+        "optionD": "Thomas Edison",
+        "answer": "Thomas Edison"
+    },
+
+    {
+        "question": "What is the longest river in the world?",
+        "optionA": "Yangtze",
+        "optionB": "Missouri",
+        "optionC": "Nile",
+        "optionD": "Amazon",
+        "answer": "Nile"
+    }
+]
